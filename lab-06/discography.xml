@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE discography SYSTEM "discography.dtd"> -->
+<?xml-stylesheet type="text/xsl" href="discography.xsl"?>
+<discography>
+    <album>
+        <name>Night Visions</name>
+        <year>2012</year>
+        <sales>2.5</sales>
+        <length>43</length>
+    </album>
+    <album>
+        <name>Smoke + Mirrors</name>
+        <year>2015</year>
+        <sales>1</sales>
+        <length>50</length>
+    </album>
+    <album>
+        <name>Evolve</name>
+        <year>2017</year>
+        <sales>3</sales>
+        <length>39</length>
+    </album>
+    <album>
+        <name>Origins</name>
+        <year>2018</year>
+        <sales>1</sales>
+        <length>40</length>
+    </album>
+    <album>
+        <name>Mercury – Act 1</name>
+        <year>2021</year>
+        <sales>0</sales>
+        <length>39</length>
+    </album>
+</discography>

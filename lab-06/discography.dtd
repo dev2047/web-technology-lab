@@ -1,0 +1,6 @@
+<!ELEMENT discography (album)>
+<!ELEMENT album (name,year,sales,length)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT sales (#PCDATA)>
+<!ELEMENT length (#PCDATA)>
