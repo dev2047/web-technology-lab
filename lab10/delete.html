@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Delete Data</title>
+</head>
+<body>
+    <div class="container">
+        <form name="reg" method="post" action="delete.php">
+            <div class="box">
+                <div class="row">
+                    <h1>Delete a record</h1>
+                </div>
+                <div class="row line"></div>
+                <div class="whitespace"></div>
+                <div class="row">
+                    <input type="text" name="id" id="id" placeholder="Enter ID" onkeypress="return validateKeyStrokes(event)">
+                </div>
+                <div class="row">
+                    <input type="submit" name="submit" value="submit">
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="whitespace"></div>
+    <script src="./script.js"></script>
+</body>
+</html>
